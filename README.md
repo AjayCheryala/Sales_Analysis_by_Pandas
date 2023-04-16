@@ -11,10 +11,10 @@ I have answered these 5 questions through my data analysis mainly using pandas a
 ![Sales by Month](https://user-images.githubusercontent.com/129381473/232265671-365ec438-c497-4ccb-99e2-f37d4b55d48a.jpg)
 
 2.	What city sold the most product?
-![Sales by City](https://user-images.githubusercontent.com/129381473/232265497-8b8504be-a575-4cd7-8da1-04d6060b5ed4.jpg)
+![Sales by City](https://user-images.githubusercontent.com/129381473/232265721-07b619e9-18e0-465f-8662-e6698bb53ddc.jpg)
 
 3.	What time should we display advertisements to maximize the likelihood of customer’s buying product?
-![Peak hours](https://user-images.githubusercontent.com/129381473/232265499-1646cd3a-e5b9-45c7-9c90-f746c250c8b6.jpg)
+![Peak hours](https://user-images.githubusercontent.com/129381473/232265725-838d69f2-ad91-40dc-9315-f8c105486bcd.jpg)
 
 4.	What products are most often sold together?
 
@@ -39,4 +39,4 @@ I have answered these 5 questions through my data analysis mainly using pandas a
 ('Lightning Charging Cable', 'Wired Headphones') 92
 
 5.	What product sold the most? Why do you think it sold the most?
-![Products that sold most](https://user-images.githubusercontent.com/129381473/232265507-b7f0b8c3-c3b9-4e9b-af12-71bd3e2d40e6.jpg)
+![Products that sold most](https://user-images.githubusercontent.com/129381473/232265730-0865108e-8cc3-43e1-bb3a-5a6a67b0f333.jpg)
