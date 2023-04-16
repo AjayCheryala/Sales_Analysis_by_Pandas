@@ -8,7 +8,7 @@ In this project, I used Python Pandas &amp; Python Matplotlib to analyze and ans
 I have answered these 5 questions through my data analysis mainly using pandas and matplotlib library.
 
 1.	What was the best month for sales? How much was earned that month?
-![Sales by Month](https://user-images.githubusercontent.com/129381473/232265637-5a880615-4850-4715-a701-60e0e2447543.jpg)
+![Sales by Month](https://user-images.githubusercontent.com/129381473/232265650-7abe3390-764b-4421-978c-0e145bfe3cdb.jpg)
 
 2.	What city sold the most product?
 ![Sales by City](https://user-images.githubusercontent.com/129381473/232265497-8b8504be-a575-4cd7-8da1-04d6060b5ed4.jpg)
