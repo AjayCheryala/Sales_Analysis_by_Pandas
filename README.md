@@ -38,5 +38,6 @@ I have answered these 5 questions through my data analysis mainly using pandas a
 
 ('Lightning Charging Cable', 'Wired Headphones') 92
 
+
 5.	What product sold the most? Why do you think it sold the most?
 ![Products that sold most](https://user-images.githubusercontent.com/129381473/232265780-a3f20ac5-96c2-445d-9f9b-2e887d25a959.jpg)
